@@ -24,7 +24,7 @@ namespace ConsoleApp2
             int guess = 0;
             bool wantToContinue = true; 
             while (wantToContinue == true)
-            { 
+            {
                 while (!winning)
                 {
                     //ask user to input a number to guess the secret number
